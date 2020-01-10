@@ -1,0 +1,32 @@
+[
+  {
+    "id": "leandroerllet",
+    "name": "Leandro Oliveira",
+    "image": "https://cdn.discordapp.com/avatars/235182430963761163/484919e3cf431235fc3fb3ed09875ef8.png",
+    "cargo": "Desenvolvedor"
+  },
+  {
+    "id": "williamestrela",
+    "name": "William Estrela",
+    "image": "https://cdn.discordapp.com/avatars/94234399918264320/8261e3c43744d519825c72cf70ade5aa.png",
+    "cargo": "Fundador"
+  },
+  {
+    "id": "borges",
+    "name": "Guilherme Borges",
+    "image": "https://cdn.discordapp.com/avatars/94614558408179712/fbc9d41cd243fa2ab860393dec5fd917.png",
+    "cargo": "Diretor - Survival"
+  },
+  {
+    "id": "poledar",
+    "name": "Samuel Neri",
+    "image": "https://cdn.discordapp.com/avatars/169121023957008384/de53da9c6153adc0c3b4a38574d1fb8e.png",
+    "cargo": "Diretor - SkyBlock"
+  },
+  {
+    "id": "luucx7",
+    "name": "Lucas Emanoel",
+    "image": "https://cdn.discordapp.com/avatars/94532807702872064/a_e7f059f703d37d18c659d93ba88c9f55.gif",
+    "cargo": "Diretor - Creative"
+  }
+]
