@@ -13,5 +13,15 @@
     "id": "survival",
     "name": "Survival",
     "image": "https://i.pinimg.com/originals/7c/d0/1e/7cd01e45d464451587dd04a9e3f7d24b.png"
+  },
+  {
+    "id": "pvp",
+    "name": "PvP",
+    "image": "https://dfg.ai/itemimages/960720958-mod-pack-exclusivo-para-pvp-minecraft-H1CL.jpg"
+  },
+  {
+    "id": "murder",
+    "name": "Murder",
+    "image": "https://i.ytimg.com/vi/1UIX3orT8_M/maxresdefault.jpg"
   }
 ]
