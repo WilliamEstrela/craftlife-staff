@@ -1,0 +1,17 @@
+[
+  {
+    "id": "skyblock",
+    "name": "SkyBlock",
+    "image": "https://static.planetminecraft.com/files/resource_media/screenshot/1850/skyblock-4-1545017884.png"
+  },
+  {
+    "id": "creative",
+    "name": "Creative",
+    "image": "https://i0.wp.com/www.jogosonlinewx.com.br/wp-content/uploads/2018/09/Creative-Mode_4130582_lrg.jpg"
+  },
+  {
+    "id": "survival",
+    "name": "Survival",
+    "image": "https://i.pinimg.com/originals/7c/d0/1e/7cd01e45d464451587dd04a9e3f7d24b.png"
+  }
+]
