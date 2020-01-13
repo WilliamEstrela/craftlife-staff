@@ -95,6 +95,78 @@
         "name": "Guilherme Borges",
         "image": "https://cdn.discordapp.com/avatars/94614558408179712/fbc9d41cd243fa2ab860393dec5fd917.png",
         "cargo": "Diretor - Survival"
+      },
+      {
+        "id": "paulinha_",
+        "name": "Paula",
+        "image": "https://cdn.discordapp.com/avatars/368585712968269824/e01ae558797cfa3b822d0e82cdbc32dc.png",
+        "cargo": "Coordenadora - Survival"
+      },
+      {
+        "id": "thedann",
+        "name": "Danilo",
+        "image": "https://cdn.discordapp.com/avatars/401020597531836448/104457828c09c003408f602e64b206d0.png",
+        "cargo": "Moderador - Survival"
+      },
+      {
+        "id": "leeh_augusto",
+        "name": "Leandro Banin",
+        "image": "https://cdn.discordapp.com/avatars/616385987085467811/a701689a36827fae39712d07537db408.png",
+        "cargo": "Moderador - Survival"
+      },
+      {
+        "id": "gamer_234",
+        "name": "??",
+        "image": "",
+        "cargo": "Moderador - Survival"
+      },
+      {
+        "id": "toxicdeath_cl",
+        "name": "Thalis",
+        "image": "",
+        "cargo": "Moderador - Survival"
+      },
+      {
+        "id": "ytartohh_cl",
+        "name": "Rafael",
+        "image": "https://cdn.discordapp.com/avatars/258957303720574976/4b0a067037f93936de6d8eb61108e475.png",
+        "cargo": "Moderador - Survival"
+      },
+      {
+        "id": "thoz",
+        "name": "Felipe",
+        "image": "https://cdn.discordapp.com/avatars/620828665273647109/45fc09a9c69fa7f7bf83b01f93774169.png",
+        "cargo": "Moderador - Survival"
+      },
+      {
+        "id": "thiago4silva",
+        "name": "Thiago Silva",
+        "image": "https://cdn.discordapp.com/avatars/582665008073277446/6b63c149d41cc66fed112023c134081e.png",
+        "cargo": "Helper - Survival"
+      },
+      {
+        "id": "asunayuuki2",
+        "name": "Luana",
+        "image": "https://cdn.discordapp.com/avatars/392492683857362966/5c5cae57dbba751a47a1e53af041c5e8.png",
+        "cargo": "Helper -Survival"
+      },
+      {
+        "id": "benbick12",
+        "name": "??",
+        "image": "",
+        "cargo": "Helper -Survival"
+      },
+      {
+        "id": "oceanidas",
+        "name": "Bruna",
+        "image": "https://cdn.discordapp.com/avatars/392771507832487947/2e8764e2144e9e0f98488ea53f6b0c87.png",
+        "cargo": "Helper -Survival"
+      },
+      {
+        "id": "_sakura_",
+        "name": "Sara Marques",
+        "image": "",
+        "cargo": "Helper -Survival"
       }
     ]
   },
