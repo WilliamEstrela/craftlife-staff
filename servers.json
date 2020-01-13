@@ -2,26 +2,52 @@
   {
     "id": "skyblock",
     "name": "SkyBlock",
-    "image": "https://static.planetminecraft.com/files/resource_media/screenshot/1850/skyblock-4-1545017884.png"
+    "image": "https://static.planetminecraft.com/files/resource_media/screenshot/1850/skyblock-4-1545017884.png",
+    "staff": [
+      {
+        "name": "Samuel Neri",
+        "id": "poledar",
+        "image": "https://cdn.discordapp.com/avatars/169121023957008384/de53da9c6153adc0c3b4a38574d1fb8e.png",
+        "cargo": "Diretor - SkyBlock"
+      }
+    ]
   },
   {
     "id": "creative",
     "name": "Creative",
-    "image": "https://i0.wp.com/www.jogosonlinewx.com.br/wp-content/uploads/2018/09/Creative-Mode_4130582_lrg.jpg"
+    "image": "https://i0.wp.com/www.jogosonlinewx.com.br/wp-content/uploads/2018/09/Creative-Mode_4130582_lrg.jpg",
+    "staff": [
+      {
+        "id": "luucx7",
+        "name": "Lucas Manoel",
+        "image": "https://cdn.discordapp.com/avatars/94532807702872064/a_e7f059f703d37d18c659d93ba88c9f55.gif",
+        "cargo": "Diretor - Creative"
+      }
+    ]
   },
   {
     "id": "survival",
     "name": "Survival",
-    "image": "https://i.pinimg.com/originals/7c/d0/1e/7cd01e45d464451587dd04a9e3f7d24b.png"
+    "image": "https://i.pinimg.com/originals/7c/d0/1e/7cd01e45d464451587dd04a9e3f7d24b.png",
+    "staff": [
+      {
+        "id": "borges",
+        "name": "Guilherme Borges",
+        "image": "https://cdn.discordapp.com/avatars/94614558408179712/fbc9d41cd243fa2ab860393dec5fd917.png",
+        "cargo": "Diretor - Survival"
+      }
+    ]
   },
   {
     "id": "pvp",
     "name": "PvP",
-    "image": "https://dfg.ai/itemimages/960720958-mod-pack-exclusivo-para-pvp-minecraft-H1CL.jpg"
+    "image": "https://dfg.ai/itemimages/960720958-mod-pack-exclusivo-para-pvp-minecraft-H1CL.jpg",
+    "staff": []
   },
   {
     "id": "murder",
     "name": "Murder",
-    "image": "https://i.ytimg.com/vi/1UIX3orT8_M/maxresdefault.jpg"
+    "image": "https://i.ytimg.com/vi/1UIX3orT8_M/maxresdefault.jpg",
+    "staff": []
   }
 ]
