@@ -40,47 +40,47 @@
         "name": "Lucas Manoel",
         "image": "https://cdn.discordapp.com/avatars/94532807702872064/a_e7f059f703d37d18c659d93ba88c9f55.gif",
         "cargo": "Diretor - Creative"
-      }
+      },
       {
-        "id": "ovicto"
-        "name": "Victor Polleto"
-        "image": "https://cdn.discordapp.com/avatars/158615095214211072/23f5e91f3220f6e8bfb46beaacf2c4f0.jpg?size=1024"
+        "id": "ovicto",
+        "name": "Victor Polleto",
+        "image": "https://cdn.discordapp.com/avatars/158615095214211072/23f5e91f3220f6e8bfb46beaacf2c4f0.jpg",
         "cargo": "Coordenador - Creative"
-      }
+      },
       {
-        "id": "michaeltowley"
-        "name": "Gabriel"
-        "image": "https://cdn.discordapp.com/avatars/109996740819554304/c0f73de370eb08f4beb226ef695e45ce.jpg?size=1024"
+        "id": "michaeltowley",
+        "name": "Gabriel",
+        "image": "https://cdn.discordapp.com/avatars/109996740819554304/c0f73de370eb08f4beb226ef695e45ce.jpg",
         "cargo": "Administrador - Creative"
-      }
+      },
       {
-        "id": "bambi"
-        "name": "Amanda Cruz"
-        "image": "https://cdn.discordapp.com/avatars/389801290550607872/d09e1af332aa68fcca04eb880e7d571b.jpg?size=1024"
+        "id": "bambi",
+        "name": "Amanda Cruz",
+        "image": "https://cdn.discordapp.com/avatars/389801290550607872/d09e1af332aa68fcca04eb880e7d571b.jpg",
         "cargo": "Administradora - Creative"
-      }
+      },
       {
-        "id": "mercenario"
-        "name": "João Marcelo"
-        "image": "https://cdn.discordapp.com/avatars/161979055069986816/03d54dc886044fd02dd5d491eb786333.jpg?size=1024"
+        "id": "mercenario",
+        "name": "João Marcelo",
+        "image": "https://cdn.discordapp.com/avatars/161979055069986816/03d54dc886044fd02dd5d491eb786333.jpg",
         "cargo": "Moderador - Creative"
-      }
+      },
       {
-        "id": "hyzack"
-        "name": "Gustavo Fujarra"
-        "image": "https://cdn.discordapp.com/avatars/298976158891114496/1a7d5ca1185bfb415ac97ded6e655e36.jpg?size=1024"
+        "id": "hyzack",
+        "name": "Gustavo Fujarra",
+        "image": "https://cdn.discordapp.com/avatars/298976158891114496/1a7d5ca1185bfb415ac97ded6e655e36.jpg",
         "cargo": "Ajudante - Creative"
-      }
+      },
       {
-        "id": "killerqueen"
-        "name": "Lie"
-        "image": "https://cdn.discordapp.com/avatars/366280328333099010/7e13cbc54bf17be7e2f88214cd7f67e7.jpg?size=1024"
+        "id": "killerqueen",
+        "name": "Lie",
+        "image": "https://cdn.discordapp.com/avatars/366280328333099010/7e13cbc54bf17be7e2f88214cd7f67e7.jpg",
         "cargo": "Ajudante - Creative"
-      }
+      },
       {
-        "id": "vichi"
-        "name": "Júlia Mendes"
-        "image": "https://cdn.discordapp.com/avatars/305381474016690176/da2b7327c5bc64ac4f9c40f2397e746f.jpg?size=1024"
+        "id": "vichi",
+        "name": "Júlia Mendes",
+        "image": "https://cdn.discordapp.com/avatars/305381474016690176/da2b7327c5bc64ac4f9c40f2397e746f.jpg",
         "cargo": "Ajudante - Creative"
       }
     ]
