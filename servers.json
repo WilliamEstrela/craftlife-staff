@@ -11,22 +11,40 @@
         "cargo": "Diretor - SkyBlock"
       },
       {
-        "name": "Samuel Neri",
-        "id": "poledar",
-        "image": "https://cdn.discordapp.com/avatars/169121023957008384/de53da9c6153adc0c3b4a38574d1fb8e.png",
-        "cargo": "Diretor - SkyBlock"
+        "name": "Ivens Carneiro",
+        "id": "MRIvens",
+        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666401445976866861/IMG-20200113-WA0021.jpg",
+        "cargo": "Coordenador - SkyBlock"
       },
       {
-        "name": "Samuel Neri",
-        "id": "poledar",
-        "image": "https://cdn.discordapp.com/avatars/169121023957008384/de53da9c6153adc0c3b4a38574d1fb8e.png",
-        "cargo": "Diretor - SkyBlock"
+        "name": "Lorenza Silva",
+        "id": "Lasky_cl",
+        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666399710466015238/IMG-20200113-WA0010.jpg",
+        "cargo": "Coordenadora - SkyBlock"
       },
       {
-        "name": "Samuel Neri",
-        "id": "poledar",
-        "image": "https://cdn.discordapp.com/avatars/169121023957008384/de53da9c6153adc0c3b4a38574d1fb8e.png",
-        "cargo": "Diretor - SkyBlock"
+        "name": "Matheus Calzada",
+        "id": "_M4TI4S_",
+        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666399711284035585/IMG-20200113-WA0013.jpg",
+        "cargo": "Adminstrador - SkyBlock"
+      },
+      {
+        "name": "Ruth Almeida",
+        "id": "PopCorn_55",
+        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666400013684965415/IMG-20200113-WA0018.jpg",
+        "cargo": "Adminstradora - SkyBlock"
+      },
+      {
+        "name": "Diego Silva",
+        "id": "_DiiH_",
+        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666399710466015240/IMG-20200113-WA0008.jpg",
+        "cargo": "Moderador - SkyBlock"
+      },
+      {
+        "name": "Eric Campos",
+        "id": "LaShacoDePapel",
+        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666404531583582208/IMG-20200113-WA0024.jp",
+        "cargo": "Ajudante - SkyBlock"
       }
     ]
   },
@@ -133,7 +151,7 @@
         "cargo": "Moderador - Survival"
       },
       {
-        "id": "thoz",
+        "id": "theoz",
         "name": "Felipe",
         "image": "https://cdn.discordapp.com/avatars/620828665273647109/45fc09a9c69fa7f7bf83b01f93774169.png",
         "cargo": "Moderador - Survival"
