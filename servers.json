@@ -2,7 +2,7 @@
   {
     "id": "skyblock",
     "name": "SkyBlock",
-    "image": "https://i.imgur.com/GDLSRzh.png",
+    "image": "https://static.planetminecraft.com/files/resource_media/screenshot/1850/skyblock-4-1545017884.png",
     "staff": [
       {
         "name": "Samuel Neri",
@@ -57,7 +57,7 @@
   {
     "id": "creative",
     "name": "Creative",
-    "image": "https://i.imgur.com/LVJ4twr.png",
+    "image": "https://i0.wp.com/www.jogosonlinewx.com.br/wp-content/uploads/2018/09/Creative-Mode_4130582_lrg.jpg",
     "staff": [
       {
         "id": "luucx7",
@@ -72,47 +72,53 @@
         "cargo": "Coordenador - Creative"
       },
       {
-        "id": "michaeltowley",
-        "name": "Gabriel",
-        "image": "https://cdn.discordapp.com/avatars/109996740819554304/c0f73de370eb08f4beb226ef695e45ce.jpg",
-        "cargo": "Administrador - Creative"
-      },
-      {
-        "id": "bambi",
-        "name": "Amanda Cruz",
-        "image": "https://cdn.discordapp.com/avatars/389801290550607872/92d1274cad6accfca3b2492b72d2df16.jpg",
-        "cargo": "Administradora - Creative"
-      },
-      {
-        "id": "mercenario",
-        "name": "João Marcelo",
+        "id": "Wapwu",
+        "name": "??",
         "image": "https://cdn.discordapp.com/avatars/161979055069986816/03d54dc886044fd02dd5d491eb786333.jpg",
         "cargo": "Moderador - Creative"
       },
       {
-        "id": "hyzack",
-        "name": "Gustavo Fujarra",
+        "id": "MichaelTowley",
+        "name": "??",
         "image": "https://cdn.discordapp.com/avatars/298976158891114496/1a7d5ca1185bfb415ac97ded6e655e36.jpg",
-        "cargo": "Ajudante - Creative"
+        "cargo": "Moderador - Creative"
       },
       {
-        "id": "killerqueen",
-        "name": "Lie",
+        "id": "Dovahkiin_",
+        "name": "??",
         "image": "https://cdn.discordapp.com/avatars/366280328333099010/7e13cbc54bf17be7e2f88214cd7f67e7.jpg",
-        "cargo": "Ajudante - Creative"
+        "cargo": "Moderador - Creative"
       },
       {
-        "id": "vichi",
+        "id": "Maycu",
         "name": "Júlia Mendes",
         "image": "https://cdn.discordapp.com/avatars/305381474016690176/da2b7327c5bc64ac4f9c40f2397e746f.jpg",
-        "cargo": "Ajudante - Creative"
+        "cargo": "Moderador - Creative"
+      },
+      {
+        "id": "FarM_",
+        "name": "??",
+        "image": "https://cdn.discordapp.com/avatars/305381474016690176/da2b7327c5bc64ac4f9c40f2397e746f.jpg",
+        "cargo": "Helper - Creative"
+      },
+      {
+        "id": "Jotta_F",
+        "name": "??",
+        "image": "https://cdn.discordapp.com/avatars/305381474016690176/da2b7327c5bc64ac4f9c40f2397e746f.jpg",
+        "cargo": "Helper - Creative"
+      },
+      {
+        "id": "Happy455",
+        "name": "??",
+        "image": "https://cdn.discordapp.com/avatars/305381474016690176/da2b7327c5bc64ac4f9c40f2397e746f.jpg",
+        "cargo": "Helper - Creative"
       }
     ]
   },
   {
     "id": "survival",
     "name": "Survival",
-    "image": "https://i.imgur.com/8M6fwvN.png",
+    "image": "https://i.pinimg.com/originals/7c/d0/1e/7cd01e45d464451587dd04a9e3f7d24b.png",
     "staff": [
       {
         "id": "borges",
@@ -195,9 +201,15 @@
     ]
   },
   {
-    "id": "rankup",
+    "id": "pvp",
     "name": "PvP",
-    "image": "https://i.imgur.com/9FaJ0ph.png",
+    "image": "https://dfg.ai/itemimages/960720958-mod-pack-exclusivo-para-pvp-minecraft-H1CL.jpg",
+    "staff": []
+  },
+  {
+    "id": "murder",
+    "name": "Murder",
+    "image": "https://i.ytimg.com/vi/1UIX3orT8_M/maxresdefault.jpg",
     "staff": []
   }
 ]
