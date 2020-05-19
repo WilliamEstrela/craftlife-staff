@@ -2,7 +2,7 @@
   {
     "id": "skyblock",
     "name": "SkyBlock",
-    "image": "https://i.imgur.com/GDLSRzh.png",
+    "image": "https://i.imgur.com/hUpbAxR.png",
     "staff": [
       {
         "name": "Samuel Neri",
@@ -57,7 +57,7 @@
   {
     "id": "creative",
     "name": "Creative",
-    "image": "https://i.imgur.com/LVJ4twr.png",
+    "image": "https://i.imgur.com/6uE0FZp.png",
     "staff": [
       {
         "id": "luucx7",
@@ -112,7 +112,7 @@
   {
     "id": "survival",
     "name": "Survival",
-    "image": "https://i.imgur.com/8M6fwvN.png",
+    "image": "https://i.imgur.com/jxB59hX.png",
     "staff": [
       {
         "id": "borges",
@@ -197,7 +197,7 @@
   {
     "id": "rankup",
     "name": "PvP",
-    "image": "https://i.imgur.com/9FaJ0ph.png",
+    "image": "https://i.imgur.com/GfwF76C.png",
     "staff": []
   }
 ]
