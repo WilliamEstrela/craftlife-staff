@@ -115,7 +115,7 @@
     "image": "https://i.imgur.com/jxB59hX.png",
     "staff": [
       {
-        "id": "borges",
+        "id": "TioBorges",
         "name": "Guilherme Borges",
         "image": "https://cdn.discordapp.com/avatars/94614558408179712/fbc9d41cd243fa2ab860393dec5fd917.png",
         "cargo": "Diretor - Survival"
@@ -127,68 +127,50 @@
         "cargo": "Coordenadora - Survival"
       },
       {
-        "id": "thedann",
+        "id": "mzrpz",
+        "name": "Thiago Silva",
+        "image": "https://cdn.discordapp.com/avatars/582665008073277446/6b63c149d41cc66fed112023c134081e.png",
+        "cargo": "Coordenador - Survival"
+      },
+      {
+        "id": "TheDaN",
         "name": "Danilo",
         "image": "https://cdn.discordapp.com/avatars/401020597531836448/104457828c09c003408f602e64b206d0.png",
-        "cargo": "Moderador - Survival"
+        "cargo": "Administrador - Survival"
       },
       {
-        "id": "leeh_augusto",
-        "name": "Leandro Banin",
-        "image": "https://cdn.discordapp.com/avatars/616385987085467811/a701689a36827fae39712d07537db408.png",
-        "cargo": "Moderador - Survival"
-      },
-      {
-        "id": "gamer_234",
+        "id": "uleehzinho",
         "name": "??",
-        "image": "",
-        "cargo": "Moderador - Survival"
+        "image": "https://cdn.discordapp.com/avatars/401020597531836448/104457828c09c003408f602e64b206d0.png",
+        "cargo": "Administrador - Survival"
       },
       {
-        "id": "toxicdeath_cl",
-        "name": "Thalis",
-        "image": "",
-        "cargo": "Moderador - Survival"
-      },
-      {
-        "id": "ytartohh_cl",
-        "name": "Rafael",
-        "image": "https://cdn.discordapp.com/avatars/258957303720574976/4b0a067037f93936de6d8eb61108e475.png",
-        "cargo": "Moderador - Survival"
-      },
-      {
-        "id": "theoz",
-        "name": "Felipe",
+        "id": "Nikkoi ",
+        "name": "??",
         "image": "https://cdn.discordapp.com/avatars/620828665273647109/45fc09a9c69fa7f7bf83b01f93774169.png",
         "cargo": "Moderador - Survival"
       },
       {
-        "id": "thiago4silva",
-        "name": "Thiago Silva",
-        "image": "https://cdn.discordapp.com/avatars/582665008073277446/6b63c149d41cc66fed112023c134081e.png",
-        "cargo": "Helper - Survival"
-      },
-      {
-        "id": "asunayuuki2",
-        "name": "Luana",
+        "id": "GarraAvatar",
+        "name": "??",
         "image": "https://cdn.discordapp.com/avatars/392492683857362966/5c5cae57dbba751a47a1e53af041c5e8.png",
-        "cargo": "Helper -Survival"
+        "cargo": "Moderador -Survival"
       },
       {
-        "id": "benbick12",
+        "id": "milena_rohling ",
         "name": "??",
         "image": "",
         "cargo": "Helper -Survival"
       },
       {
-        "id": "oceanidas",
-        "name": "Bruna",
+        "id": "Srwainny ",
+        "name": "??",
         "image": "https://cdn.discordapp.com/avatars/392771507832487947/2e8764e2144e9e0f98488ea53f6b0c87.png",
         "cargo": "Helper -Survival"
       },
       {
-        "id": "_sakura_",
-        "name": "Sara Marques",
+        "id": "Mariavilhosa ",
+        "name": "Maria",
         "image": "",
         "cargo": "Helper -Survival"
       }
